@@ -5,7 +5,7 @@ import colorama
 from colorama import Fore, Back, Style, init
 init()
 
-TOKEN = "TOKEN"
+TOKEN = "MTAwNTk1OTM3MTkxMTU5ODE2MQ.Gqy__n.Fayn8MUB6zJrGcTMPLnWFweSDovaN3OzCiOgWw"
 
 client = commands.Bot(command_prefix = ";")
 client.remove_command("help")
